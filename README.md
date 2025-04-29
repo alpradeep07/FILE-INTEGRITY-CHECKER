@@ -1,3 +1,18 @@
+NAME : AAKINA LAKSHMI PRADEEP
+
+COMPANY : CODTECH IT SOLUTIONS
+
+INTERN ID :CT06WR16
+
+DOMAIN :Cyber Security & Ethical Hacking
+
+DURATION : MARCH 25th, 2025 to MAY 10th, 2025 (6 WEEKS)
+
+MENTOR : NEELA SANTHOSH
+
+OVERVIEW : FILE INTEGRITY CHECKER
+
+
 ## File Integrity Monitoring Script
 This Python script provides tools to efficiently check the integrity of files within a directory by comparing their hashes against a known list of valid hashes.
 
